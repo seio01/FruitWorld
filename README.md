@@ -19,10 +19,10 @@ Item :
 5. 아이스크림 : 체력을 채워준다.
 <img width="10%" src = https://github.com/seio01/FruitWorld/assets/101907921/20eb590a-7866-4f46-be38-d4dcfee64b37>
 
-6. 폭탄 : 체력을 하나 제거한다.
+6. 폭탄 : 체력을 하나 잃는다.
 <img width="10%" src = https://github.com/seio01/FruitWorld/assets/101907921/da97417c-7864-43af-bf7b-86196d0b3e64>
 
-7. 쓰레기통 : 지금까지 획득한 과일을 다 쓰레기통으로 버린다.
+7. 쓰레기통 : 획득한 과일을 다 쓰레기통으로 버린다.
 <img width="10%" src = https://github.com/seio01/FruitWorld/assets/101907921/6ad887f6-a362-49f6-83c9-9403d1440146>
 
 8. 껌 : 플레이어 이동 속도 느리게
